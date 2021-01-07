@@ -8,15 +8,15 @@
 	
 # Estrutura básica de uma Página HTML
 
-<!DOCTYPE html>
-<html lang="pt_BR">
-<head>
-    <title>Hello World</title>
-</head>
-<body>
-    <h1>Hello World</h1>
-</body>
-</html>
+	<!DOCTYPE html>
+	<html lang="pt_BR">
+	<head>
+		<title>Hello World</title>
+	</head>
+	<body>
+		<h1>Hello World</h1>
+	</body>
+	</html>
 
 
 
