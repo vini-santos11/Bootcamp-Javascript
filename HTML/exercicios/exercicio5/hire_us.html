@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>SpaceX</title>
+</head>
+<body>
+    <header class="header">
+        <nav>
+            <a href="index.html">
+                <img src="logo.png" alt="logo.png">
+            </a>
+            <a href="spaceships.html">.| The SpaceShips</a>
+            <a href="hire_us.html"> | Hire Us</a>
+            <hr>
+        </nav>
+    </header>
+    <div class="form">
+        <h3>Hire Us Now</h3>
+        <p>Leave a message to request one of our services and we will get back to you as soon as possible</p>
+        <br>
+        <br>
+        <form action="https://www.example.com">
+            <label for="name">Nome: </label>
+            <input type="text" id="name" name="name"> -
+
+            <label for="email">Email: </label>
+            <input type="email" id="email" name="email">
+            <br>
+            <br>
+            <br>
+
+            <label for="spaceships">SpaceShips: </label>
+                <select name="spaceships" id="spaceships">
+                    <option value="Falcon 9">Falcon 9</option>
+                    <option value="Falcon Heavy">Falcon Heavy</option>
+                </select> |
+               
+             <label for="type">Type of Service</label>   
+             <input type="search" name="type" id="type" list="types">
+             <datalist id="types">
+                <option value="1 NASA SELECTS LUNAR OPTIMIZED STARSHIP"></option>
+                <option value="2 STARSHIP"></option>
+                <option value="3 DRAGON DOCKING SIMULATOR"></option>
+                <option value="4 CREW-1 MISSION"></option>
+             </datalist>
+             <br>
+             <br>
+             <br>
+
+             <input type="submit" value="Send Message">
+        </form>
+    </div>
+</body>
+</html>
