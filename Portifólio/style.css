@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #efefef;
+}
+
+#title-tag {
+    margin-bottom: 15px;
+} 
+
+.card-header {
+    background-color: #4a4a4a;
+}
+
+.card-header-title {
+    color: #fff;
+}
+
+#instagram {
+    margin-left: 15px;
+}
+
+#linkedin {
+    margin-left: 15px;
+}
+
+#github {
+    margin-left: 15px;
+}
