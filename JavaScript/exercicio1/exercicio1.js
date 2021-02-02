@@ -3,5 +3,8 @@ let name = prompt("Qual o seu nome ?");
 let age = prompt("Qual a sua idade?");
 let confirmation = confirm("Você confirma que sua idade é: " + age);
 if (confirmation == true) {
-    alert("Nome: " + name + " |" + " Idade: " + age);
+    alert("Nome: " + name + "\nIdade: " + age + "\nIdade confirmada: " + confirmation);
+}
+else {
+    alert("Nome: " + name);
 }
