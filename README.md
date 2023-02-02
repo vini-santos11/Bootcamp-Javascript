@@ -1,6 +1,6 @@
  # BOOTCAMP JAVASCRIPT
 
- Todos os arquivos que eu utilizei para estudar e acompanhar as aulas do BootCamp JavaScript OneBitCode
+ Todos os arquivos que utilizo para estudar e acompanhar as aulas do BootCamp JavaScript OneBitCode
 
 
 
